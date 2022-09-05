@@ -2,39 +2,43 @@
   <h3 align="center">Bookself RESTful API</h3>
 
   <p align="center">
-    This RESTful API built with NodeJS
+    CRUD RESTful API built with NodeJS
     <br />
   </p>
 </div>
+<br>
+<p align="center">
+  <a href="https://nodejs.org/dist/v16.16.0/">
+    <img src="https://img.shields.io/badge/node--lts-%5E16.16.0-green"
+         alt="Gitter">
+  </a>
+  
+  <a href="https://hapi.dev/"><img src="https://img.shields.io/badge/@hapi/hapi-%5E20.2.2-green"></a>
+  
+  <a href="https://www.npmjs.com/package/eslint">
+    <img src="https://img.shields.io/badge/eslint-%5E8.23.0-green">
+  </a>
+</p>
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
+This repository is the final submission of [Dicoding](https://www.dicoding.com/) in Learning to Create Back-End Applications for Beginners.
 
+### How To Use
 
+To clone and run this project, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-<!-- PROJECT BUILD WITH -->
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Node][Node.js]][Node-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+```bash
+# Clone this repository
+$ git clone https://github.com/arlanhendrawinata/Bookself-RESTful-API.git
+# Go into the repository
+$ cd Bookself-RESTful-API
+# Install dependencies
+$ npm install
+# Run the app
+$ npm run start
+```
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Node.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Node-url]: https://nodejs.org/
-[Hapi.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Hapi-url]: https://hapi.dev/
