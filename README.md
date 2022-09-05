@@ -6,15 +6,13 @@
     <br />
   </p>
 </div>
-<br>
+
 <p align="center">
   <a href="https://nodejs.org/dist/v16.16.0/">
     <img src="https://img.shields.io/badge/node--lts-%5E16.16.0-green"
          alt="Gitter">
   </a>
-  
   <a href="https://hapi.dev/"><img src="https://img.shields.io/badge/@hapi/hapi-%5E20.2.2-green"></a>
-  
   <a href="https://www.npmjs.com/package/eslint">
     <img src="https://img.shields.io/badge/eslint-%5E8.23.0-green">
   </a>
